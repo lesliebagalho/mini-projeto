@@ -24,5 +24,4 @@ Pode ser o Instagram, LinkedIn, TikTok, GitHub, etc.
 🗂️ Organização de entrega:
 Cada grupo salva o projeto como index.html
 Opcional: pasta com imagem local (/imagens/)
-Pode ser apresentado no navegador ao final da aula
-![image](https://github.com/user-attachments/assets/d1457b82-7500-4401-abca-de2af99520c0)
+
